@@ -17,3 +17,5 @@ Useful examples on Mongoose: Multi Insert 10.000 documents on mongodb using mong
 # Output
 <img src="multiInsert.png">
 
+# Output when inserting 1M documents (model.collection.insert only)
+<img src="multiInsert1M.png">
